@@ -1,1 +1,2 @@
-# patika-internship
+# Patika & ICP Staj Başvurusu
+İlk görev için gerçekleştirilen kısım.
